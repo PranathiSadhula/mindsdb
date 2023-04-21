@@ -36,4 +36,4 @@ dataprep_ml
 grpcio-tools
 python-magic >= 0.4.27
 openpyxl >= 3.1.1
-docker>=1.4
+docker==1.4
