@@ -4,4 +4,4 @@ mindsdb>=22.10.2.1
 mindsdb_sql >= 0.4.4,<0.5.0
 hyperopt
 dill
-dask==2023.4.0
+dask==2020.4.0
