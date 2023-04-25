@@ -37,4 +37,4 @@ grpcio-tools
 python-magic >= 0.4.27
 openpyxl >= 3.1.1
 docker==1.4
-redis==7.0
+redis==7.0.9
