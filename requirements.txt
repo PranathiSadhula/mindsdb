@@ -8,7 +8,7 @@ cryptography>=35.0
 psycopg[binary] >= 1.15.3
 psycopg2-binary
 python-tds >= 1.10.0
-waitress < 2.1.1
+waitress>2.1.1
 pymongo[srv] >= 4.1.1
 setuptools
 psutil
