@@ -25,7 +25,7 @@ mindsdb-streams == 0.1.1
 duckdb == 0.4.0
 requests >= 2.0.0
 mysql-connector-python
-clickhouse-driver
+clickhouse-driver>0.15
 clickhouse-sqlalchemy
 charset-normalizer
 dill >= 0.3.4
